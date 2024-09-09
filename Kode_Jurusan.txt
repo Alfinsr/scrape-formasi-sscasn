@@ -1,0 +1,6017 @@
+[
+	{
+		"cepat_kode": "5193674",
+		"nama": "D-IV/S-1 AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193683",
+		"nama": "D-IV/S-1 EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193677",
+		"nama": "D-IV/S-1 EKONOMI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193679",
+		"nama": "D-IV/S-1 ILMU KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193675",
+		"nama": "D-IV/S-1 MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193678",
+		"nama": "D-IV/S-1 SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193682",
+		"nama": "D-IV/S-1 TEKNIK INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193680",
+		"nama": "D-IV/S-1 TEKNOLOGI INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7199921",
+		"nama": "DOKTER HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191065",
+		"nama": "DOKTER UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "4210021",
+		"nama": "PROFESI BIDAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210136",
+		"nama": "PROFESI INSINYUR PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126000",
+		"nama": "S-1 ADMINISTRASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5157011",
+		"nama": "S-1 ADMINISTRASI BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101026",
+		"nama": "S-1 ADMINISTRASI FISKAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9400211",
+		"nama": "S-1 ADMINISTRASI KANTOR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104811",
+		"nama": "S-1 ADMINISTRASI KEBIJAKAN KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100380",
+		"nama": "S-1 ADMINISTRASI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5157010",
+		"nama": "S-1 ADMINISTRASI KEUANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100935",
+		"nama": "S-1 ADMINISTRASI NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126013",
+		"nama": "S-1 ADMINISTRASI NIAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102667",
+		"nama": "S-1 ADMINISTRASI PAJAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7101489",
+		"nama": "S-1 ADMINISTRASI PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210314",
+		"nama": "S-1 ADMINISTRASI PEMERINTAHAN DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102273",
+		"nama": "S-1 ADMINISTRASI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126090",
+		"nama": "S-1 ADMINISTRASI PERKANTORAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100045",
+		"nama": "S-1 ADMINISTRASI PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210315",
+		"nama": "S-1 ADMINISTRASI PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126050",
+		"nama": "S-1 ADMINISTRASI PUBLISISTIK/JURNALISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193226",
+		"nama": "S-1 ADMINISTRASI RUMAH SAKIT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140100",
+		"nama": "S-1 AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140111",
+		"nama": "S-1 AGAMA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119078",
+		"nama": "S-1 AGAMA KOMUNIKASI DAN PENYIARAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192780",
+		"nama": "S-1 AGAMA KRISTEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106188",
+		"nama": "S-1 AGRIBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102737",
+		"nama": "S-1 AGRIBISNIS HORTIKULTURA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191196",
+		"nama": "S-1 AGRIBISNIS PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101687",
+		"nama": "S-1 AGRIBISNIS PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192615",
+		"nama": "S-1 AGRIBISNIS PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101769",
+		"nama": "S-1 AGRIBISNIS SOSIAL EKONOMI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100718",
+		"nama": "S-1 AGRIBISNIS TANAMAN PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009026",
+		"nama": "S-1 AGROBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190332",
+		"nama": "S-1 AGROBISNIS PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100137",
+		"nama": "S-1 AGROEKOTEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210316",
+		"nama": "S-1 AGROEKOTEKNOLOGI (MINAT PERLINDUNGAN TANAMAN / HAMA DAN PENYAKIT TUMBUHAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940609",
+		"nama": "S-1 AGROEKOTEKNOLOGI ATAU AGROTEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193560",
+		"nama": "S-1 AGROINDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106060",
+		"nama": "S-1 AGRONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100013",
+		"nama": "S-1 AGRONOMI DAN HORTIKULTURA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210005",
+		"nama": "S-1 AGRONOMI TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191115",
+		"nama": "S-1 AGROTEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210317",
+		"nama": "S-1 AGROTEKNOLOGI (MINAT PERLINDUNGAN TANAMAN / HAMA DAN PENYAKIT TUMBUHAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101427",
+		"nama": "S-1 AGROTEKNOLOGI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100412",
+		"nama": "S-1 AHLI TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200070",
+		"nama": "S-1 AHWAL AL SYAKHSIYYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193323",
+		"nama": "S-1 AKHLAK TASAWUF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119079",
+		"nama": "S-1 AKHWALUS SYAKHSIYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119080",
+		"nama": "S-1 AKIDAH DAN FILSAFAT ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7609118",
+		"nama": "S-1 AKTUARIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100319",
+		"nama": "S-1 AKUAKULTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101201",
+		"nama": "S-1 AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192595",
+		"nama": "S-1 AKUNTANSI KEUANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100830",
+		"nama": "S-1 AKUNTANSI MANAJERIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100167",
+		"nama": "S-1 AKUNTANSI SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102257",
+		"nama": "S-1 AKUTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192685",
+		"nama": "S-1 ANALIS KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193667",
+		"nama": "S-1 ANALIS TATA RUANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193463",
+		"nama": "S-1 ANIMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100890",
+		"nama": "S-1 ANTROPOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120600",
+		"nama": "S-1 ANTROPOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120631",
+		"nama": "S-1 ANTROPOLOGI BUDAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120632",
+		"nama": "S-1 ANTROPOLOGI SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106445",
+		"nama": "S-1 AQIDAH DAN FILSAFAT ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193324",
+		"nama": "S-1 AQIDAH FILSAFAT ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120613",
+		"nama": "S-1 ARKEOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119157",
+		"nama": "S-1 ARSIP",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100139",
+		"nama": "S-1 ARSIPARIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193501",
+		"nama": "S-1 ARSITEK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109751",
+		"nama": "S-1 ARSITEKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102463",
+		"nama": "S-1 ARSITEKTUR INTERIOR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193464",
+		"nama": "S-1 ARSITEKTUR LANSKAP",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107510",
+		"nama": "S-1 ASTRONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210008",
+		"nama": "S-1 ASURANSI SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210108",
+		"nama": "S-1 BAHASA ACEH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120411",
+		"nama": "S-1 BAHASA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120231",
+		"nama": "S-1 BAHASA BALI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109954",
+		"nama": "S-1 BAHASA BATAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120532",
+		"nama": "S-1 BAHASA BELANDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210109",
+		"nama": "S-1 BAHASA BUGIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120321",
+		"nama": "S-1 BAHASA CINA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101377",
+		"nama": "S-1 BAHASA DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210110",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN ACEH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102794",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210194",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN BALI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210195",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN BATAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210200",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN BELANDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210189",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102795",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210202",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102738",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN JEPANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210203",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN JERMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100858",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN KOREA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210204",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210205",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN RUSIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210206",
+		"nama": "S-1 BAHASA DAN KEBUDAYAAN SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100952",
+		"nama": "S-1 BAHASA DAN SASTRA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192622",
+		"nama": "S-1 BAHASA DAN SASTRA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110814",
+		"nama": "S-1 BAHASA DAN SASTRA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192613",
+		"nama": "S-1 BAHASA DAN SASTRA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120213",
+		"nama": "S-1 BAHASA DAN SASTRA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120523",
+		"nama": "S-1 BAHASA DAN SASTRA PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120112",
+		"nama": "S-1 BAHASA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120512",
+		"nama": "S-1 BAHASA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120211",
+		"nama": "S-1 BAHASA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120311",
+		"nama": "S-1 BAHASA JEPANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120552",
+		"nama": "S-1 BAHASA JERMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120331",
+		"nama": "S-1 BAHASA KOREA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210111",
+		"nama": "S-1 BAHASA MAKASSAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191423",
+		"nama": "S-1 BAHASA MANDARIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102753",
+		"nama": "S-1 BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120522",
+		"nama": "S-1 BAHASA PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120542",
+		"nama": "S-1 BAHASA RUSIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120221",
+		"nama": "S-1 BAHASA SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119082",
+		"nama": "S-1 BIDANG MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193561",
+		"nama": "S-1 BIDANG MANAJEMEN TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110937",
+		"nama": "S-1 BIMBINGAN DAN KONSELING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100852",
+		"nama": "S-1 BIMBINGAN DAN KONSELING ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109952",
+		"nama": "S-1 BIMBINGAN DAN KONSELING PENDIDIKAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200061",
+		"nama": "S-1 BIMBINGAN DAN PENYULUHAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100012",
+		"nama": "S-1 BIMBINGAN KONSELING ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210140",
+		"nama": "S-1 BIO KEWIRAUSAHAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210141",
+		"nama": "S-1 BIOINFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107221",
+		"nama": "S-1 BIOKIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210545",
+		"nama": "S-1 BIOKIMIA NUTRISI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5159000",
+		"nama": "S-1 BIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5159012",
+		"nama": "S-1 BIOLOGI LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106572",
+		"nama": "S-1 BIOLOGI PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102770",
+		"nama": "S-1 BIOLOGI TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119085",
+		"nama": "S-1 BIOLOGI TUMBUHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200115",
+		"nama": "S-1 BIOMEDIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210207",
+		"nama": "S-1 BIOSAINS HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191374",
+		"nama": "S-1 BIOTEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210010",
+		"nama": "S-1 BIOTEKNOLOGI DAN TEKNOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100129",
+		"nama": "S-1 BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210012",
+		"nama": "S-1 BISNIS DIGITAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210208",
+		"nama": "S-1 BISNIS JASA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100200",
+		"nama": "S-1 BISNIS MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210209",
+		"nama": "S-1 BISNIS MARITIM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210210",
+		"nama": "S-1 BISNIS MUSIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191125",
+		"nama": "S-1 BROADCASTING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106462",
+		"nama": "S-1 BUDI DAYA PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106351",
+		"nama": "S-1 BUDIDAYA HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106511",
+		"nama": "S-1 BUDIDAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106512",
+		"nama": "S-1 BUDIDAYA PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106141",
+		"nama": "S-1 BUDIDAYA PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193191",
+		"nama": "S-1 BUDIDAYA PERTANIAN DAN PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193642",
+		"nama": "S-1 BUDIDAYA TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210014",
+		"nama": "S-1 CYBER SECURITY",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192789",
+		"nama": "S-1 DAKWAH DAN KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140216",
+		"nama": "S-1 DAKWAH ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192764",
+		"nama": "S-1 DEMOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191104",
+		"nama": "S-1 DESAIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210323",
+		"nama": "S-1 DESAIN DAN KOMUNIKASI VISUAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119030",
+		"nama": "S-1 DESAIN GRAFIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119036",
+		"nama": "S-1 DESAIN INTERIOR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119031",
+		"nama": "S-1 DESAIN KOMUNIKASI VISUAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210324",
+		"nama": "S-1 DESAIN MEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102809",
+		"nama": "S-1 DESAIN MODE",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119035",
+		"nama": "S-1 DESAIN PRODUK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191126",
+		"nama": "S-1 DESAIN PRODUK INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100072",
+		"nama": "S-1 DIRASAT ISLAMIYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009002",
+		"nama": "S-1 DOKTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104201",
+		"nama": "S-1 DOKTER GIGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193039",
+		"nama": "S-1 DOKUMENTASI DAN KEARSIPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210016",
+		"nama": "S-1 EKOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101775",
+		"nama": "S-1 EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101269",
+		"nama": "S-1 EKONOMI AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191187",
+		"nama": "S-1 EKONOMI BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101430",
+		"nama": "S-1 EKONOMI DAN BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210211",
+		"nama": "S-1 EKONOMI DAN KEUANGAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101417",
+		"nama": "S-1 EKONOMI DAN MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102394",
+		"nama": "S-1 EKONOMI DAN PERDAGANGAN INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101116",
+		"nama": "S-1 EKONOMI DAN STUDI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101118",
+		"nama": "S-1 EKONOMI INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101113",
+		"nama": "S-1 EKONOMI INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140319",
+		"nama": "S-1 EKONOMI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101122",
+		"nama": "S-1 EKONOMI KOPERASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101270",
+		"nama": "S-1 EKONOMI MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101300",
+		"nama": "S-1 EKONOMI MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101231",
+		"nama": "S-1 EKONOMI MANAJEMEN AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210017",
+		"nama": "S-1 EKONOMI PANGAN DAN PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190061",
+		"nama": "S-1 EKONOMI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101112",
+		"nama": "S-1 EKONOMI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102541",
+		"nama": "S-1 EKONOMI PERTANIAN DAN AGRIBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101115",
+		"nama": "S-1 EKONOMI REGIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190098",
+		"nama": "S-1 EKONOMI STUDI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101720",
+		"nama": "S-1 EKONOMI SUMBER DAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100552",
+		"nama": "S-1 EKONOMI SUMBER DAYA DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9400226",
+		"nama": "S-1 EKONOMI SUMBER DAYA LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210560",
+		"nama": "S-1 EKONOMI SUMBERDAYA KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191157",
+		"nama": "S-1 EKONOMI SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101117",
+		"nama": "S-1 EKONOMI UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102812",
+		"nama": "S-1 EKONOMI, KEUANGAN, DAN PERBANKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190100",
+		"nama": "S-1 ELEKTRONIKA DAN INSTRUMENTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100650",
+		"nama": "S-1 ENTOMOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104849",
+		"nama": "S-1 EPIDEMIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191131",
+		"nama": "S-1 ETNOMUSIKOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100289",
+		"nama": "S-1 FAKULTAS ILMU ADMINISTRASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104400",
+		"nama": "S-1 FARMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102467",
+		"nama": "S-1 FARMASI KLINIK DAN KOMUNITAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103120",
+		"nama": "S-1 FARMASI KLINIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210606",
+		"nama": "S-1 FARMASI PEMINATAN/JURUSAN/PROGRAM STUDI/KONSENTRASI TEKNOLOGI LABORATORIUM KESEHATAN/TEKNOLOGI LABORATORIUM MEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102367",
+		"nama": "S-1 FILM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102396",
+		"nama": "S-1 FILM DAN TELEVISI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5154000",
+		"nama": "S-1 FILSAFAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140116",
+		"nama": "S-1 FILSAFAT AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5154038",
+		"nama": "S-1 FILSAFAT AGAMA KRISTEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140217",
+		"nama": "S-1 FILSAFAT ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107280",
+		"nama": "S-1 FISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210327",
+		"nama": "S-1 FISIKA (MINAT FISIKA MEDIS)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192740",
+		"nama": "S-1 FISIKA INSTRUMENTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210021",
+		"nama": "S-1 FISIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104503",
+		"nama": "S-1 FISIOTERAPI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119027",
+		"nama": "S-1 FOTOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190076",
+		"nama": "S-1 GEODESI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107230",
+		"nama": "S-1 GEOFISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5160000",
+		"nama": "S-1 GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100010",
+		"nama": "S-1 GEOGRAFI DAN ILMU LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5160015",
+		"nama": "S-1 GEOGRAFI KARTOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100736",
+		"nama": "S-1 GEOGRAFI LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210561",
+		"nama": "S-1 GEOGRAFI LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100517",
+		"nama": "S-1 GEOKIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190037",
+		"nama": "S-1 GEOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102310",
+		"nama": "S-1 GEOLOGI PERTAMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100296",
+		"nama": "S-1 GEOMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101761",
+		"nama": "S-1 GIZI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199998",
+		"nama": "S-1 GIZI DAN DIETETIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104505",
+		"nama": "S-1 GIZI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100069",
+		"nama": "S-1 GIZI MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106166",
+		"nama": "S-1 HAMA DAN PENYAKIT TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192706",
+		"nama": "S-1 HAMA DAN PENYAKIT TUMBUHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100453",
+		"nama": "S-1 HAMA PENYAKIT PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100073",
+		"nama": "S-1 HAMA PENYAKIT TUMBUHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106186",
+		"nama": "S-1 HORTIKULTURA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190229",
+		"nama": "S-1 HUBUNGAN INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192799",
+		"nama": "S-1 HUBUNGAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123000",
+		"nama": "S-1 HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123110",
+		"nama": "S-1 HUKUM ADAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123344",
+		"nama": "S-1 HUKUM ADMINISTRASI NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101447",
+		"nama": "S-1 HUKUM AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102759",
+		"nama": "S-1 HUKUM AGAMA HINDU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123331",
+		"nama": "S-1 HUKUM AGRARIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191292",
+		"nama": "S-1 HUKUM BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100845",
+		"nama": "S-1 HUKUM EKONOMI SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123500",
+		"nama": "S-1 HUKUM INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101890",
+		"nama": "S-1 HUKUM ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191094",
+		"nama": "S-1 HUKUM LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123317",
+		"nama": "S-1 HUKUM PERDATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102653",
+		"nama": "S-1 HUKUM PIDANA ISLAM (JINAYAH)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193334",
+		"nama": "S-1 HUKUM SUMBER DAYA ALAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191095",
+		"nama": "S-1 HUKUM SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123450",
+		"nama": "S-1 HUKUM TATA NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102554",
+		"nama": "S-1 HUKUM TATA NEGARA (SIYASAH)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200040",
+		"nama": "S-1 HUKUM TATA NEGARA ISLAM (SIYASAH)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5171001",
+		"nama": "S-1 HUMANIORA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190038",
+		"nama": "S-1 ILMU ADMINISTRASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126019",
+		"nama": "S-1 ILMU ADMINISTRASI NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126015",
+		"nama": "S-1 ILMU ADMINISTRASI NIAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126017",
+		"nama": "S-1 ILMU ADMINISTRASI PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100219",
+		"nama": "S-1 ILMU AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193051",
+		"nama": "S-1 ILMU AKTUARIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100217",
+		"nama": "S-1 ILMU AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102475",
+		"nama": "S-1 ILMU AL QUR`AN DAN TAFSIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9400286",
+		"nama": "S-1 ILMU ANTROPOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210196",
+		"nama": "S-1 ILMU ATAU SAINS AKTUARIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940610",
+		"nama": "S-1 ILMU ATAU SAINS KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119091",
+		"nama": "S-1 ILMU ATAU SAINS PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210214",
+		"nama": "S-1 ILMU ATMOSFER DAN KEPLANETAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100436",
+		"nama": "S-1 ILMU BIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210215",
+		"nama": "S-1 ILMU BIOMEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192798",
+		"nama": "S-1 ILMU DAN INDUSTRI PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101293",
+		"nama": "S-1 ILMU DAN TEKNOLOGI HAYATI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100780",
+		"nama": "S-1 ILMU DAN TEKNOLOGI KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190104",
+		"nama": "S-1 ILMU DAN TEKNOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103139",
+		"nama": "S-1 ILMU DESAIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119146",
+		"nama": "S-1 ILMU DESIGN TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101202",
+		"nama": "S-1 ILMU EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102548",
+		"nama": "S-1 ILMU EKONOMI DAN KEUANGAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190135",
+		"nama": "S-1 ILMU EKONOMI DAN STUDI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191158",
+		"nama": "S-1 ILMU EKONOMI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100162",
+		"nama": "S-1 ILMU EKONOMI MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101203",
+		"nama": "S-1 ILMU EKONOMI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193709",
+		"nama": "S-1 ILMU EKONOMI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100155",
+		"nama": "S-1 ILMU EKONOMI STUDI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "500942",
+		"nama": "S-1 ILMU EKONOMI SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102519",
+		"nama": "S-1 ILMU FALAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100205",
+		"nama": "S-1 ILMU GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104911",
+		"nama": "S-1 ILMU GIZI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106191",
+		"nama": "S-1 ILMU GIZI MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210024",
+		"nama": "S-1 ILMU HAMA DAN PENYAKIT PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100519",
+		"nama": "S-1 ILMU HAMA DAN PENYAKIT TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106168",
+		"nama": "S-1 ILMU HAMA DAN PENYAKIT TUMBUHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5180002",
+		"nama": "S-1 ILMU HUBUNGAN INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5123130",
+		"nama": "S-1 ILMU HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210337",
+		"nama": "S-1 ILMU HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100237",
+		"nama": "S-1 ILMU HUKUM DAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103072",
+		"nama": "S-1 ILMU INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5180001",
+		"nama": "S-1 ILMU INFORMASI DAN PERPUSTAKAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100259",
+		"nama": "S-1 ILMU INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192611",
+		"nama": "S-1 ILMU JURNALISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100377",
+		"nama": "S-1 ILMU KEARSIPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100154",
+		"nama": "S-1 ILMU KEBIDANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193056",
+		"nama": "S-1 ILMU KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009008",
+		"nama": "S-1 ILMU KEDOKTERAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210546",
+		"nama": "S-1 ILMU KEDOKTERAN HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101927",
+		"nama": "S-1 ILMU KEHUTANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5105020",
+		"nama": "S-1 ILMU KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101947",
+		"nama": "S-1 ILMU KELUARGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192668",
+		"nama": "S-1 ILMU KELUARGA DAN KONSUMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100928",
+		"nama": "S-1 ILMU KEOLAHRAGAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193057",
+		"nama": "S-1 ILMU KEPARIWISATAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103138",
+		"nama": "S-1 ILMU KEPENDUDUKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104501",
+		"nama": "S-1 ILMU KEPERAWATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191018",
+		"nama": "S-1 ILMU KEPERAWATAN GIGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102477",
+		"nama": "S-1 ILMU KEPOLISIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101186",
+		"nama": "S-1 ILMU KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100747",
+		"nama": "S-1 ILMU KESEHATAN KERJA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100483",
+		"nama": "S-1 ILMU KESEHATAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5131002",
+		"nama": "S-1 ILMU KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190020",
+		"nama": "S-1 ILMU KESEJAHTERAAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191410",
+		"nama": "S-1 ILMU KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101794",
+		"nama": "S-1 ILMU KOMPUTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150001",
+		"nama": "S-1 ILMU KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193060",
+		"nama": "S-1 ILMU KOMPUTER (INFORMATIKA)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940611",
+		"nama": "S-1 ILMU KOMPUTER ATAU INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153000",
+		"nama": "S-1 ILMU KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192686",
+		"nama": "S-1 ILMU KOMUNIKASI (PUBLIC RELATION)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100840",
+		"nama": "S-1 ILMU KOMUNIKASI BIDANG ILMU HUMAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200005",
+		"nama": "S-1 ILMU KOMUNIKASI BIDANG ILMU JURNALISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119094",
+		"nama": "S-1 ILMU KOMUNIKASI BROADCASTING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193618",
+		"nama": "S-1 ILMU KOMUNIKASI DAN HUMAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193400",
+		"nama": "S-1 ILMU KOMUNIKASI VISUAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190183",
+		"nama": "S-1 ILMU KOMUNIKASI/HUBUNGAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100466",
+		"nama": "S-1 ILMU LALU LINTAS DAN ANGKUTAN JALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100269",
+		"nama": "S-1 ILMU LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193689",
+		"nama": "S-1 ILMU LINGKUNGAN HIDUP",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100221",
+		"nama": "S-1 ILMU MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100735",
+		"nama": "S-1 ILMU MANAJEMEN TRANSPORTASI DARAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193522",
+		"nama": "S-1 ILMU MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100592",
+		"nama": "S-1 ILMU METEREOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103137",
+		"nama": "S-1 ILMU MULTIMEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210216",
+		"nama": "S-1 ILMU PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119147",
+		"nama": "S-1 ILMU PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5144001",
+		"nama": "S-1 ILMU PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210338",
+		"nama": "S-1 ILMU PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110900",
+		"nama": "S-1 ILMU PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202387",
+		"nama": "S-1 ILMU PENDIDIKAN BIMBINGAN KONSELING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193063",
+		"nama": "S-1 ILMU PERENCANAAN WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103136",
+		"nama": "S-1 ILMU PERENCANAAN WILAYAH DAN PEDESAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100378",
+		"nama": "S-1 ILMU PERHUBUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191239",
+		"nama": "S-1 ILMU PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5180000",
+		"nama": "S-1 ILMU PERPUSTAKAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190017",
+		"nama": "S-1 ILMU PERPUSTAKAAN DAN INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193692",
+		"nama": "S-1 ILMU PERPUSTAKAAN DAN INFORMASI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192573",
+		"nama": "S-1 ILMU PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100157",
+		"nama": "S-1 ILMU PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5145082",
+		"nama": "S-1 ILMU POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193064",
+		"nama": "S-1 ILMU POLITIK DAN PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119148",
+		"nama": "S-1 ILMU POLITIK SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100370",
+		"nama": "S-1 ILMU PSIKOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120704",
+		"nama": "S-1 ILMU SEJARAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106160",
+		"nama": "S-1 ILMU SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190182",
+		"nama": "S-1 ILMU SOSIAL DAN ILMU POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5145013",
+		"nama": "S-1 ILMU SOSIAL POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5145004",
+		"nama": "S-1 ILMU SOSIATRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192598",
+		"nama": "S-1 ILMU SOSIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100199",
+		"nama": "S-1 ILMU STATISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193488",
+		"nama": "S-1 ILMU STATISTIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5105030",
+		"nama": "S-1 ILMU TANAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100782",
+		"nama": "S-1 ILMU TEKNIK KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193066",
+		"nama": "S-1 ILMU TEKNIK SIPIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193382",
+		"nama": "S-1 ILMU TEKNIK SIPIL DAN PERENCANAAN TATA RUANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193639",
+		"nama": "S-1 ILMU TEKNOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102479",
+		"nama": "S-1 ILMU TEOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100327",
+		"nama": "S-1 ILMU TRANSPORTASI DARAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100135",
+		"nama": "S-1 INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100373",
+		"nama": "S-1 INDUSTRI PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193350",
+		"nama": "S-1 INFORMASI TEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191141",
+		"nama": "S-1 INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191381",
+		"nama": "S-1 INFORMATIKA KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210217",
+		"nama": "S-1 INFORMATIKA MEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210339",
+		"nama": "S-1 INOVASI DIGITAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101765",
+		"nama": "S-1 INSTITUT ILMU PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190044",
+		"nama": "S-1 JINAYAH SIYASAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153001",
+		"nama": "S-1 JURNALISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119149",
+		"nama": "S-1 JURNALISTIK ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199990",
+		"nama": "S-1 JURNALISTIK KONSENTRASI KOMUNIKASI JURNALISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192710",
+		"nama": "S-1 JURNALISTIK PUBLIC RELATION",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210218",
+		"nama": "S-1 KAJIAN ACEH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210219",
+		"nama": "S-1 KAJIAN ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210220",
+		"nama": "S-1 KAJIAN BATAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210221",
+		"nama": "S-1 KAJIAN BELANDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193069",
+		"nama": "S-1 KAJIAN BUDAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210222",
+		"nama": "S-1 KAJIAN BUGIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102932",
+		"nama": "S-1 KAJIAN FILM, TELEVISI, DAN MEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210223",
+		"nama": "S-1 KAJIAN INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210224",
+		"nama": "S-1 KAJIAN INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210225",
+		"nama": "S-1 KAJIAN JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210226",
+		"nama": "S-1 KAJIAN JEPANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210227",
+		"nama": "S-1 KAJIAN JERMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210228",
+		"nama": "S-1 KAJIAN KOREA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210229",
+		"nama": "S-1 KAJIAN MINANGKABAU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210230",
+		"nama": "S-1 KAJIAN PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102934",
+		"nama": "S-1 KAJIAN SASTRA DAN BUDAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210231",
+		"nama": "S-1 KAJIAN SLAVIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210232",
+		"nama": "S-1 KAJIAN SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210233",
+		"nama": "S-1 KAJIAN TIONGKOK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193077",
+		"nama": "S-1 KAJIAN WILAYAH ASIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210031",
+		"nama": "S-1 KAJIAN WILAYAH EROPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193078",
+		"nama": "S-1 KAJIAN WILAYAH TIMUR TENGAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192804",
+		"nama": "S-1 KARTOGRAFI DAN PENGINDERAAN JAUH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210032",
+		"nama": "S-1 KEAMANAN DAN INTELIJEN SIBER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210340",
+		"nama": "S-1 KEAMANAN PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210568",
+		"nama": "S-1 KEAMANAN SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5180005",
+		"nama": "S-1 KEARSIPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210033",
+		"nama": "S-1 KEARSIPAN DIGITAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104700",
+		"nama": "S-1 KEBIDANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210341",
+		"nama": "S-1 KEBIJAKAN PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100048",
+		"nama": "S-1 KEBIJAKAN PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102576",
+		"nama": "S-1 KEBIJAKAN PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100104",
+		"nama": "S-1 KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9400025",
+		"nama": "S-1 KECERDASAN BUATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101043",
+		"nama": "S-1 KEDOKTERAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104152",
+		"nama": "S-1 KEDOKTERAN DASAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104153",
+		"nama": "S-1 KEDOKTERAN DASAR UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104200",
+		"nama": "S-1 KEDOKTERAN GIGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101289",
+		"nama": "S-1 KEDOKTERAN HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210235",
+		"nama": "S-1 KEDOKTERAN KERJA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104110",
+		"nama": "S-1 KEDOKTERAN UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100759",
+		"nama": "S-1 KEFARMASIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101302",
+		"nama": "S-1 KEHUTANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101305",
+		"nama": "S-1 KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100904",
+		"nama": "S-1 KEOLAHRAGAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192814",
+		"nama": "S-1 KEPELATIHAN OLAHRAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107900",
+		"nama": "S-1 KEPENDUDUKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5131030",
+		"nama": "S-1 KEPENDUDUKAN DAN STATISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107911",
+		"nama": "S-1 KEPENDUDUKAN UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104500",
+		"nama": "S-1 KEPERAWATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190120",
+		"nama": "S-1 KEPERAWATAN + NERS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104800",
+		"nama": "S-1 KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193590",
+		"nama": "S-1 KESEHATAN DAN KESELAMATAN KERJA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193351",
+		"nama": "S-1 KESEHATAN KERJA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104820",
+		"nama": "S-1 KESEHATAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101047",
+		"nama": "S-1 KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5131001",
+		"nama": "S-1 KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210601",
+		"nama": "S-1 KESEHATAN MASYARAKAT (KONSENTRASI ENTOMOLOGI KESEHATAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210608",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN PROMOSI KESEHATAN DAN ILMU PERILAKU)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7609178",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN PROMOSI KESEHATAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210602",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN/JURUSAN/KONSENTRASI EPIDEMIOLOGI)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210609",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN/KONSENTRASI KESEHATAN LINGKUNGAN ATAU SANITASI LINGKUNGAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210346",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN/KONSENTRASI KESEHATAN LINGKUNGAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210604",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PEMINATAN/KONSENTRASI KESELAMATAN DAN KESEHATAN KERJA)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100520",
+		"nama": "S-1 KESEHATAN MASYARAKAT (PROMOSI KESEHATAN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193534",
+		"nama": "S-1 KESEHATAN MASYARAKAT JURUSAN EPIDEMIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210547",
+		"nama": "S-1 KESEJAHTERAAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210034",
+		"nama": "S-1 KESEJAHTERAAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101309",
+		"nama": "S-1 KESEJAHTERAAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5146001",
+		"nama": "S-1 KESEJAHTERAAN SOSIAL UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190050",
+		"nama": "S-1 KESEKRETARIATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100635",
+		"nama": "S-1 KESELAMATAN DAN KESEHATAN KERJA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5010145",
+		"nama": "S-1 KETAHANAN NASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100956",
+		"nama": "S-1 KEUANGAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102482",
+		"nama": "S-1 KEUANGAN SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101350",
+		"nama": "S-1 KEWIRAUSAHAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107211",
+		"nama": "S-1 KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100478",
+		"nama": "S-1 KLIMATOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193407",
+		"nama": "S-1 KOMPUTASI STATISTIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150000",
+		"nama": "S-1 KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191068",
+		"nama": "S-1 KOMPUTER DAN SISTEM INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100770",
+		"nama": "S-1 KOMPUTER SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150022",
+		"nama": "S-1 KOMPUTER SISTEM INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150041",
+		"nama": "S-1 KOMPUTER TEKNIK INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101272",
+		"nama": "S-1 KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100826",
+		"nama": "S-1 KOMUNIKASI DAN PENGEMBANGAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140322",
+		"nama": "S-1 KOMUNIKASI DAN PENYIARAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103157",
+		"nama": "S-1 KOMUNIKASI HUBUNGAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153021",
+		"nama": "S-1 KOMUNIKASI HUMAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191391",
+		"nama": "S-1 KOMUNIKASI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153050",
+		"nama": "S-1 KOMUNIKASI KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153041",
+		"nama": "S-1 KOMUNIKASI MASSA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103135",
+		"nama": "S-1 KOMUNIKASI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101511",
+		"nama": "S-1 KOMUNIKASI PEMBANGUNAN PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191389",
+		"nama": "S-1 KOMUNIKASI PENYIARAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191133",
+		"nama": "S-1 KOMUNIKASI PERIKLANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210036",
+		"nama": "S-1 KONSERVASI BIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210236",
+		"nama": "S-1 KONSERVASI HEWAN LIAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210237",
+		"nama": "S-1 KONSERVASI HEWAN LIAR DAN HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210238",
+		"nama": "S-1 KONSERVASI HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210239",
+		"nama": "S-1 KONSERVASI SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210037",
+		"nama": "S-1 KONSERVASI SUMBER DAYA ALAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191207",
+		"nama": "S-1 KONSERVASI SUMBER DAYA HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100757",
+		"nama": "S-1 KONSERVASI SUMBER DAYA HUTAN DAN EKOWISATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101512",
+		"nama": "S-1 KONSERVASI SUMBER DAYA HUTAN DAN EKOWISATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192786",
+		"nama": "S-1 KRIMINOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100847",
+		"nama": "S-1 KRIYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191087",
+		"nama": "S-1 KRIYA SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193089",
+		"nama": "S-1 KURIKULUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190122",
+		"nama": "S-1 LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210112",
+		"nama": "S-1 LINGUISTIK INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210190",
+		"nama": "S-1 LINGUISTIK TERAPAN BAHASA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191361",
+		"nama": "S-1 LISTRIK ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210241",
+		"nama": "S-1 LOGIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102955",
+		"nama": "S-1 LOGISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210038",
+		"nama": "S-1 MANAJAMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102286",
+		"nama": "S-1 MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193211",
+		"nama": "S-1 MANAJEMEN ADMINISTRASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102918",
+		"nama": "S-1 MANAJEMEN ADMINISTRASI PERKANTORAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100813",
+		"nama": "S-1 MANAJEMEN AGRIBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100601",
+		"nama": "S-1 MANAJEMEN AGRIBISNIS PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210349",
+		"nama": "S-1 MANAJEMEN AGROBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193093",
+		"nama": "S-1 MANAJEMEN AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193094",
+		"nama": "S-1 MANAJEMEN ASET",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210550",
+		"nama": "S-1 MANAJEMEN ATAU PENGELOLAAN SUMBER DAYA LAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119110",
+		"nama": "S-1 MANAJEMEN ATAU PENGELOLAAN SUMBER DAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102607",
+		"nama": "S-1 MANAJEMEN BENCANA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101317",
+		"nama": "S-1 MANAJEMEN BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193095",
+		"nama": "S-1 MANAJEMEN BISNIS INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210350",
+		"nama": "S-1 MANAJEMEN BISNIS TELEKOMUNIKASI INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109943",
+		"nama": "S-1 MANAJEMEN DAKWAH ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119111",
+		"nama": "S-1 MANAJEMEN DAN BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210351",
+		"nama": "S-1 MANAJEMEN DAN KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102606",
+		"nama": "S-1 MANAJEMEN ENERGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106310",
+		"nama": "S-1 MANAJEMEN HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190067",
+		"nama": "S-1 MANAJEMEN INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101505",
+		"nama": "S-1 MANAJEMEN INFORMASI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102960",
+		"nama": "S-1 MANAJEMEN INFORMASI KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150023",
+		"nama": "S-1 MANAJEMEN INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101325",
+		"nama": "S-1 MANAJEMEN KEARSIPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101323",
+		"nama": "S-1 MANAJEMEN KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210359",
+		"nama": "S-1 MANAJEMEN KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191380",
+		"nama": "S-1 MANAJEMEN KEHUTANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104841",
+		"nama": "S-1 MANAJEMEN KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5111111",
+		"nama": "S-1 MANAJEMEN KEUANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101328",
+		"nama": "S-1 MANAJEMEN KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210569",
+		"nama": "S-1 MANAJEMEN KOMUNIKASI DAN MEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191079",
+		"nama": "S-1 MANAJEMEN LOGISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103134",
+		"nama": "S-1 MANAJEMEN MEDIA DAN KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210353",
+		"nama": "S-1 MANAJEMEN MUTU PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210242",
+		"nama": "S-1 MANAJEMEN OLAHRAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102962",
+		"nama": "S-1 MANAJEMEN PAJAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101268",
+		"nama": "S-1 MANAJEMEN PARIWISATA INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100071",
+		"nama": "S-1 MANAJEMEN PEMASARAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210360",
+		"nama": "S-1 MANAJEMEN PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110671",
+		"nama": "S-1 MANAJEMEN PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110672",
+		"nama": "S-1 MANAJEMEN PENDIDIKAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109920",
+		"nama": "S-1 MANAJEMEN PERHOTELAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192697",
+		"nama": "S-1 MANAJEMEN PERKANTORAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210355",
+		"nama": "S-1 MANAJEMEN PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210356",
+		"nama": "S-1 MANAJEMEN PRODUKSI PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199994",
+		"nama": "S-1 MANAJEMEN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103140",
+		"nama": "S-1 MANAJEMEN REKAYASA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102485",
+		"nama": "S-1 MANAJEMEN REKAYASA INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101316",
+		"nama": "S-1 MANAJEMEN SDM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210358",
+		"nama": "S-1 MANAJEMEN SUMBER DAYA AIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102742",
+		"nama": "S-1 MANAJEMEN SUMBER DAYA ALAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100832",
+		"nama": "S-1 MANAJEMEN SUMBER DAYA LAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210570",
+		"nama": "S-1 MANAJEMEN SUMBER DAYA MANUSIA APARATUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101329",
+		"nama": "S-1 MANAJEMEN SUMBER DAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210562",
+		"nama": "S-1 MANAJEMEN SUMBERDAYA HAYATI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102750",
+		"nama": "S-1 MANAJEMEN SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210243",
+		"nama": "S-1 MANAJEMEN TEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101320",
+		"nama": "S-1 MANAJEMEN TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101310",
+		"nama": "S-1 MANAJEMEN TRANSPORTASI DARAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191099",
+		"nama": "S-1 MANAJEMEN TRANSPORTASI LAUT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190206",
+		"nama": "S-1 MANAJEMEN TRANSPORTASI UDARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101050",
+		"nama": "S-1 MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193408",
+		"nama": "S-1 MATEMATIKA IPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193536",
+		"nama": "S-1 MATEMATIKA SAINS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102303",
+		"nama": "S-1 MATEMATIKA STATISTIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193105",
+		"nama": "S-1 MATEMATIKA TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106121",
+		"nama": "S-1 MEKANISASI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100136",
+		"nama": "S-1 MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210525",
+		"nama": "S-1 MESIN OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190083",
+		"nama": "S-1 METEOROLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107241",
+		"nama": "S-1 METEOROLOGI TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100590",
+		"nama": "S-1 METEREOLOGI DAN GEOFISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7609179",
+		"nama": "S-1 METROLOGI DAN INSTRUMENTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100019",
+		"nama": "S-1 MIKROBIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193640",
+		"nama": "S-1 MIKROBIOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191379",
+		"nama": "S-1 MIKROBIOLOGI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107100",
+		"nama": "S-1 MIPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101553",
+		"nama": "S-1 MIPA GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210563",
+		"nama": "S-1 MITIGASI BENCANA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192763",
+		"nama": "S-1 MUAMALAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191135",
+		"nama": "S-1 MULTIMEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101353",
+		"nama": "S-1 MUSIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191185",
+		"nama": "S-1 NUTRISI DAN MAKANAN TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100553",
+		"nama": "S-1 NUTRISI DAN PAKAN TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210044",
+		"nama": "S-1 NUTRISI DAN TEKNOLOGI PAKAN TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193641",
+		"nama": "S-1 NUTRISI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191286",
+		"nama": "S-1 NUTRISI TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190084",
+		"nama": "S-1 OCEANOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100467",
+		"nama": "S-1 OLAH RAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210122",
+		"nama": "S-1 OLAHRAGA REKREASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109251",
+		"nama": "S-1 OSEANOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109731",
+		"nama": "S-1 OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102752",
+		"nama": "S-1 PANGAN DAN NUTRISI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109900",
+		"nama": "S-1 PARIWISATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940566",
+		"nama": "S-1 PARIWISATA BUDAYA DAN KEAGAMAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210045",
+		"nama": "S-1 PARIWISATA DAN KEAGAMAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199997",
+		"nama": "S-1 PATOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192811",
+		"nama": "S-1 PEKERJAAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100751",
+		"nama": "S-1 PEMANFAATAN SUMBER DAYA PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210361",
+		"nama": "S-1 PEMANFATAAN SUMBERDAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193354",
+		"nama": "S-1 PEMBANGUNAN EKONOMI KEWILAYAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210046",
+		"nama": "S-1 PEMBANGUNAN PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102357",
+		"nama": "S-1 PEMBANGUNAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102489",
+		"nama": "S-1 PEMBANGUNAN SOSIAL DAN KESEJAHTERAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192783",
+		"nama": "S-1 PEMBANGUNAN WILAYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193537",
+		"nama": "S-1 PEMBANGUNAN WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101438",
+		"nama": "S-1 PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210599",
+		"nama": "S-1 PEMINATAN/JURUSAN/PROGRAM STUDI/KONSENTRASI ENTOMOLOGI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210598",
+		"nama": "S-1 PEMINATAN/JURUSAN/PROGRAM STUDI/KONSENTRASI TEKNOLOGI LABORATORIUM KESEHATAN/TEKNOLOGI LABORATORIUM MEDIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210607",
+		"nama": "S-1 PEMINATAN/JURUSAN/PROGRAM STUDI/KONSENTRASI TEKNOLOGI LABORATORIUM KESEHATAN/TEKNOLOGI LABORATORIUM MEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210363",
+		"nama": "S-1 PEMULIAAN DAN PRODUKSI TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106177",
+		"nama": "S-1 PEMULIAAN TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110000",
+		"nama": "S-1 PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110360",
+		"nama": "S-1 PENDIDIKAN ADMINISTRASI PERKANTORAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100066",
+		"nama": "S-1 PENDIDIKAN AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102281",
+		"nama": "S-1 PENDIDIKAN AGAMA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140219",
+		"nama": "S-1 PENDIDIKAN AGAMA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110625",
+		"nama": "S-1 PENDIDIKAN AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110965",
+		"nama": "S-1 PENDIDIKAN ANAK USIA DINI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110464",
+		"nama": "S-1 PENDIDIKAN ANTROPOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110800",
+		"nama": "S-1 PENDIDIKAN BAHASA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110822",
+		"nama": "S-1 PENDIDIKAN BAHASA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100664",
+		"nama": "S-1 PENDIDIKAN BAHASA BALI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210113",
+		"nama": "S-1 PENDIDIKAN BAHASA BUGIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190070",
+		"nama": "S-1 PENDIDIKAN BAHASA DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100778",
+		"nama": "S-1 PENDIDIKAN BAHASA DAN SASTRA DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110813",
+		"nama": "S-1 PENDIDIKAN BAHASA DAN SASTRA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110851",
+		"nama": "S-1 PENDIDIKAN BAHASA DAN SASTRA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110816",
+		"nama": "S-1 PENDIDIKAN BAHASA DAN SASTRA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101057",
+		"nama": "S-1 PENDIDIKAN BAHASA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110812",
+		"nama": "S-1 PENDIDIKAN BAHASA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101597",
+		"nama": "S-1 PENDIDIKAN BAHASA INDONESIA DAN DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110852",
+		"nama": "S-1 PENDIDIKAN BAHASA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110817",
+		"nama": "S-1 PENDIDIKAN BAHASA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110862",
+		"nama": "S-1 PENDIDIKAN BAHASA JEPANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110872",
+		"nama": "S-1 PENDIDIKAN BAHASA JERMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100110",
+		"nama": "S-1 PENDIDIKAN BAHASA KOREA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193524",
+		"nama": "S-1 PENDIDIKAN BAHASA LAMPUNG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210114",
+		"nama": "S-1 PENDIDIKAN BAHASA MAKASSAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110882",
+		"nama": "S-1 PENDIDIKAN BAHASA MANDARIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210115",
+		"nama": "S-1 PENDIDIKAN BAHASA MELAYU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110891",
+		"nama": "S-1 PENDIDIKAN BAHASA PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101606",
+		"nama": "S-1 PENDIDIKAN BAHASA SASTRA INDONESIA DAN DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101607",
+		"nama": "S-1 PENDIDIKAN BAHASA SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210048",
+		"nama": "S-1 PENDIDIKAN BAHASA, SASTRA INDONESIA, DAN BAHASA DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110932",
+		"nama": "S-1 PENDIDIKAN BIMBINGAN DAN KONSELING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110160",
+		"nama": "S-1 PENDIDIKAN BIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110970",
+		"nama": "S-1 PENDIDIKAN BISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210244",
+		"nama": "S-1 PENDIDIKAN BUDAYA SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100634",
+		"nama": "S-1 PENDIDIKAN BUDIDAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009013",
+		"nama": "S-1 PENDIDIKAN DOKTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5111002",
+		"nama": "S-1 PENDIDIKAN EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110633",
+		"nama": "S-1 PENDIDIKAN EKONOMI KOPERASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100943",
+		"nama": "S-1 PENDIDIKAN FISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110993",
+		"nama": "S-1 PENDIDIKAN GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102318",
+		"nama": "S-1 PENDIDIKAN GURU MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191071",
+		"nama": "S-1 PENDIDIKAN GURU PENDIDIKAN ANAK USIA DINI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102078",
+		"nama": "S-1 PENDIDIKAN GURU SEKOLAH DASAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210366",
+		"nama": "S-1 PENDIDIKAN GURU SEKOLAH DASAR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101725",
+		"nama": "S-1 PENDIDIKAN HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191438",
+		"nama": "S-1 PENDIDIKAN ILMU KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110122",
+		"nama": "S-1 PENDIDIKAN ILMU PENGETAHUAN ALAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190045",
+		"nama": "S-1 PENDIDIKAN ILMU PENGETAHUAN SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190111",
+		"nama": "S-1 PENDIDIKAN INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190219",
+		"nama": "S-1 PENDIDIKAN IPS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110967",
+		"nama": "S-1 PENDIDIKAN JASMANI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193298",
+		"nama": "S-1 PENDIDIKAN JASMANI SD",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102660",
+		"nama": "S-1 PENDIDIKAN KEAGAMAAN BUDDHA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119139",
+		"nama": "S-1 PENDIDIKAN KEAGAMAAN HINDU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102656",
+		"nama": "S-1 PENDIDIKAN KEAGAMAAN KATOLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119140",
+		"nama": "S-1 PENDIDIKAN KEAGAMAAN KRISTEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100079",
+		"nama": "S-1 PENDIDIKAN KEPELATIHAN OLAHRAGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210245",
+		"nama": "S-1 PENDIDIKAN KEPERCAYAAN TERHADAP TUHAN YANG MAHA ESA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5131050",
+		"nama": "S-1 PENDIDIKAN KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110652",
+		"nama": "S-1 PENDIDIKAN KESEJAHTERAAN KELUARGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100091",
+		"nama": "S-1 PENDIDIKAN KHUSUS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110140",
+		"nama": "S-1 PENDIDIKAN KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5111000",
+		"nama": "S-1 PENDIDIKAN KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110634",
+		"nama": "S-1 PENDIDIKAN KOPERASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193468",
+		"nama": "S-1 PENDIDIKAN KRIYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101652",
+		"nama": "S-1 PENDIDIKAN KURIKULUM DAN TEKNOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102672",
+		"nama": "S-1 PENDIDIKAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102493",
+		"nama": "S-1 PENDIDIKAN LUAR BIASA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100120",
+		"nama": "S-1 PENDIDIKAN LUAR BIASA (BRAILLE)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191234",
+		"nama": "S-1 PENDIDIKAN LUAR BIASA (PLB)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101817",
+		"nama": "S-1 PENDIDIKAN LUAR SEKOLAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110991",
+		"nama": "S-1 PENDIDIKAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110120",
+		"nama": "S-1 PENDIDIKAN MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191278",
+		"nama": "S-1 PENDIDIKAN MULTIMEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193545",
+		"nama": "S-1 PENDIDIKAN MUSIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102673",
+		"nama": "S-1 PENDIDIKAN NON FORMAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210246",
+		"nama": "S-1 PENDIDIKAN NONFORMAL ATAU PENDIDIKAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110964",
+		"nama": "S-1 PENDIDIKAN OLAH RAGA DAN KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191163",
+		"nama": "S-1 PENDIDIKAN OLAHRAGA DAN KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5111003",
+		"nama": "S-1 PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101653",
+		"nama": "S-1 PENDIDIKAN PENGEMBANGAN KURIKULUM DAN TEKNOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210369",
+		"nama": "S-1 PENDIDIKAN REKAYASA ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210370",
+		"nama": "S-1 PENDIDIKAN REKAYASA ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210371",
+		"nama": "S-1 PENDIDIKAN REKAYASA MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110811",
+		"nama": "S-1 PENDIDIKAN SASTRA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210247",
+		"nama": "S-1 PENDIDIKAN SASTRA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110462",
+		"nama": "S-1 PENDIDIKAN SEJARAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192771",
+		"nama": "S-1 PENDIDIKAN SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102550",
+		"nama": "S-1 PENDIDIKAN SENI PERTUNJUKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190041",
+		"nama": "S-1 PENDIDIKAN SENI RUPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110380",
+		"nama": "S-1 PENDIDIKAN SOSIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102572",
+		"nama": "S-1 PENDIDIKAN TARI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110554",
+		"nama": "S-1 PENDIDIKAN TATA RIAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102494",
+		"nama": "S-1 PENDIDIKAN TEHNIK SIPIL DAN PERENCANAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100728",
+		"nama": "S-1 PENDIDIKAN TEKNIK ARSITEKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110212",
+		"nama": "S-1 PENDIDIKAN TEKNIK BANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110231",
+		"nama": "S-1 PENDIDIKAN TEKNIK ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110232",
+		"nama": "S-1 PENDIDIKAN TEKNIK ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110219",
+		"nama": "S-1 PENDIDIKAN TEKNIK INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191117",
+		"nama": "S-1 PENDIDIKAN TEKNIK INFORMATIKA DAN KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102495",
+		"nama": "S-1 PENDIDIKAN TEKNIK MEKATRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110221",
+		"nama": "S-1 PENDIDIKAN TEKNIK MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110224",
+		"nama": "S-1 PENDIDIKAN TEKNIK OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192810",
+		"nama": "S-1 PENDIDIKAN TEKNIK SIPIL DAN PERENCANAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5111050",
+		"nama": "S-1 PENDIDIKAN TEKNOLOGI INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202433",
+		"nama": "S-1 PENDIDIKAN TEKNOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102573",
+		"nama": "S-1 PENDIDIKAN TEKNOLOGI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100618",
+		"nama": "S-1 PENDIDIKAN TUNA RUNGU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102715",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL AGRIBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102978",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL DESAIN FASHION",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102979",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL GAMBAR ARSITEKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102716",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL KESEJAHTERAAN KELUARGA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102986",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL KONSTRUKSI BANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940612",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL MEKATRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210248",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL REKAYASA ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210249",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL REKAYASA ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210250",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL REKAYASA MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210251",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL REKAYASA PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102993",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL SENI KULINER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102994",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL TATA RIAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102989",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL TEKNIK ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102718",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL TEKNIK MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210252",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL TEKNIK PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102988",
+		"nama": "S-1 PENDIDIKAN VOKASIONAL TEKNOLOGI OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102983",
+		"nama": "S-1 PENGELOLAAN HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210372",
+		"nama": "S-1 PENGELOLAAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210373",
+		"nama": "S-1 PENGELOLAAN SUMBER DAYA ALAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191295",
+		"nama": "S-1 PENGELOLAAN SUMBER DAYA ALAM DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210133",
+		"nama": "S-1 PENGELOLAAN SUMBER DAYA LAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100087",
+		"nama": "S-1 PENGELOLAAN SUMBER DAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210566",
+		"nama": "S-1 PENGELOLAAN SUMBERDAYA HAYATI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101669",
+		"nama": "S-1 PENGEMBANGAN KURIKULUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101670",
+		"nama": "S-1 PENGEMBANGAN KURIKULUM DAN TEKNOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100232",
+		"nama": "S-1 PENGEMBANGAN WILAYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191064",
+		"nama": "S-1 PENGEMBANGAN WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199314",
+		"nama": "S-1 PENGINDERAAN JAUH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106551",
+		"nama": "S-1 PENGOLAHAN HASIL PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106106",
+		"nama": "S-1 PENGOLAHAN HASIL PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210571",
+		"nama": "S-1 PENGUKURAN DAN EVALUASI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193620",
+		"nama": "S-1 PENYIARAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193414",
+		"nama": "S-1 PENYULUH KESEHATAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190043",
+		"nama": "S-1 PENYULUH PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101518",
+		"nama": "S-1 PENYULUHAN DAN KOMUNIKASI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210375",
+		"nama": "S-1 PENYULUHAN PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101575",
+		"nama": "S-1 PENYULUHAN PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210376",
+		"nama": "S-1 PENYULUHAN PERTANIAN LAHAN KERING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210377",
+		"nama": "S-1 PENYULUHAN PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210378",
+		"nama": "S-1 PENYULUHAN PETERNAKAN DAN KESEJAHTERAAN HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140221",
+		"nama": "S-1 PERBANDINGAN AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102193",
+		"nama": "S-1 PERBANDINGAN MADZHAB DAN HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102496",
+		"nama": "S-1 PERBANDINGAN MAZHAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191396",
+		"nama": "S-1 PERBANKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192809",
+		"nama": "S-1 PERBANKAN SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210253",
+		"nama": "S-1 PERDAGANGAN INTERNASIONAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101682",
+		"nama": "S-1 PEREKAM DAN INFORMASI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192768",
+		"nama": "S-1 PERENCANA WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193361",
+		"nama": "S-1 PERENCANAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193525",
+		"nama": "S-1 PERENCANAAN DAN KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210052",
+		"nama": "S-1 PERENCANAAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101683",
+		"nama": "S-1 PERENCANAAN PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100672",
+		"nama": "S-1 PERENCANAAN WILAYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109169",
+		"nama": "S-1 PERENCANAAN WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210445",
+		"nama": "S-1 PERENCANAAN WILAYAH DAN KOTA/PLANOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100389",
+		"nama": "S-1 PERENCANAAN WILAYAH KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5153100",
+		"nama": "S-1 PERHUBUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106500",
+		"nama": "S-1 PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193481",
+		"nama": "S-1 PERIKANAN BUDIDAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190213",
+		"nama": "S-1 PERIKANAN DAN ILMU KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106563",
+		"nama": "S-1 PERIKANAN TANGKAP",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102904",
+		"nama": "S-1 PERIKLANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192576",
+		"nama": "S-1 PERKANTORAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106200",
+		"nama": "S-1 PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100480",
+		"nama": "S-1 PERKERETAAPIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210379",
+		"nama": "S-1 PERLINDUNGAN TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102907",
+		"nama": "S-1 PERMESINAN PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192638",
+		"nama": "S-1 PERPAJAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101577",
+		"nama": "S-1 PERPUSTAKAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9000700",
+		"nama": "S-1 PERPUSTAKAAN DAN ILMU INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193727",
+		"nama": "S-1 PERPUSTAKAAN DAN SAINS INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193123",
+		"nama": "S-1 PERTAHANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101578",
+		"nama": "S-1 PERTAMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109170",
+		"nama": "S-1 PERTAMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192633",
+		"nama": "S-1 PERTANAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106100",
+		"nama": "S-1 PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191040",
+		"nama": "S-1 PERTANIAN AGRIBISNIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106137",
+		"nama": "S-1 PERTANIAN AGROEKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210053",
+		"nama": "S-1 PERTANIAN BERKELANJUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106112",
+		"nama": "S-1 PERTANIAN TEKNOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102053",
+		"nama": "S-1 PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190071",
+		"nama": "S-1 PGMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192625",
+		"nama": "S-1 PGSLB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193363",
+		"nama": "S-1 PIDANA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191078",
+		"nama": "S-1 PLANOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100400",
+		"nama": "S-1 PLB B (TUNA RUNGU WICARA)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101579",
+		"nama": "S-1 POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199316",
+		"nama": "S-1 POLITIK DAN PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102497",
+		"nama": "S-1 POLITIK ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193644",
+		"nama": "S-1 PRODUKSI DAN TEKNOLOGI PAKAN TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210381",
+		"nama": "S-1 PRODUKSI MEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100374",
+		"nama": "S-1 PRODUKSI PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106411",
+		"nama": "S-1 PRODUKSI TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100612",
+		"nama": "S-1 PROTEKSI TANAMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5130000",
+		"nama": "S-1 PSIKOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101950",
+		"nama": "S-1 PSIKOLOGI (SPESIALISASI ANAK-REMAJA-KELUARGA)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100459",
+		"nama": "S-1 PSIKOLOGI + PROFESI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191382",
+		"nama": "S-1 PSIKOLOGI ANAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5130011",
+		"nama": "S-1 PSIKOLOGI ANAK DAN PERKEMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193127",
+		"nama": "S-1 PSIKOLOGI MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100121",
+		"nama": "S-1 PSIKOLOGI PAUD",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200114",
+		"nama": "S-1 PSIKOLOGI PEMINATAN PSIKOLOGI KLINIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5130012",
+		"nama": "S-1 PSIKOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100115",
+		"nama": "S-1 PSIKOLOGI PERKEMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5130032",
+		"nama": "S-1 PSIKOLOGI SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102888",
+		"nama": "S-1 PSIKOLOGI TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193181",
+		"nama": "S-1 PSIKOLOGI UMUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193224",
+		"nama": "S-1 RANCANG KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7609175",
+		"nama": "S-1 REKAM MEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193599",
+		"nama": "S-1 REKAM MEDIS DAN INFORMASI KESEHATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210255",
+		"nama": "S-1 REKAYASA BIOENERGI DAN KEMURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210256",
+		"nama": "S-1 REKAYASA BIOMEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210257",
+		"nama": "S-1 REKAYASA BIOPROSES",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210258",
+		"nama": "S-1 REKAYASA BIOSISTEM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210259",
+		"nama": "S-1 REKAYASA DIRGANTARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193301",
+		"nama": "S-1 REKAYASA ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210384",
+		"nama": "S-1 REKAYASA ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210058",
+		"nama": "S-1 REKAYASA FISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210059",
+		"nama": "S-1 REKAYASA GEODESI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210260",
+		"nama": "S-1 REKAYASA GEOFISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202280",
+		"nama": "S-1 REKAYASA GEOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210060",
+		"nama": "S-1 REKAYASA GEOMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100197",
+		"nama": "S-1 REKAYASA HAYATI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119120",
+		"nama": "S-1 REKAYASA INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210061",
+		"nama": "S-1 REKAYASA INDUSTRI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210385",
+		"nama": "S-1 REKAYASA INFRASTRUKTUR DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193131",
+		"nama": "S-1 REKAYASA INFRASTRUKTUR LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210261",
+		"nama": "S-1 REKAYASA INSTRUMENTASI DAN AUTOMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209124",
+		"nama": "S-1 REKAYASA KEHUTANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210262",
+		"nama": "S-1 REKAYASA KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210263",
+		"nama": "S-1 REKAYASA KEOLAHRAGAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210264",
+		"nama": "S-1 REKAYASA KESELAMATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210555",
+		"nama": "S-1 REKAYASA KESELAMATAN INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210062",
+		"nama": "S-1 REKAYASA KESELAMATAN KEBAKARAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210063",
+		"nama": "S-1 REKAYASA KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103063",
+		"nama": "S-1 REKAYASA KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210265",
+		"nama": "S-1 REKAYASA KOSMETIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210064",
+		"nama": "S-1 REKAYASA LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210197",
+		"nama": "S-1 REKAYASA LOGISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210267",
+		"nama": "S-1 REKAYASA MANUFAKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210065",
+		"nama": "S-1 REKAYASA MATERIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210386",
+		"nama": "S-1 REKAYASA MATERIAL DAN METALURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210268",
+		"nama": "S-1 REKAYASA MEKATRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210066",
+		"nama": "S-1 REKAYASA MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210269",
+		"nama": "S-1 REKAYASA METALURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210270",
+		"nama": "S-1 REKAYASA MINYAK DAN GAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210271",
+		"nama": "S-1 REKAYASA NUKLIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100717",
+		"nama": "S-1 REKAYASA PERANGKAT LUNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210272",
+		"nama": "S-1 REKAYASA PERKAPALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210273",
+		"nama": "S-1 REKAYASA PERKERETAAPIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210274",
+		"nama": "S-1 REKAYASA PERMINYAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210067",
+		"nama": "S-1 REKAYASA PERTAMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193132",
+		"nama": "S-1 REKAYASA PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210275",
+		"nama": "S-1 REKAYASA PERTANIAN DAN BIOSISTEM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193302",
+		"nama": "S-1 REKAYASA SIPIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210276",
+		"nama": "S-1 REKAYASA SISTEM ENERGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210387",
+		"nama": "S-1 REKAYASA SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102648",
+		"nama": "S-1 REKAYASA SISTEM KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210277",
+		"nama": "S-1 REKAYASA SISTEM PERKAPALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200120",
+		"nama": "S-1 REKAYASA SISTEM TRANSPORTASI JALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210278",
+		"nama": "S-1 REKAYASA SUMBER DAYA AIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210279",
+		"nama": "S-1 REKAYASA SUMBER DAYA PENGAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210068",
+		"nama": "S-1 REKAYASA TATA KELOLA AIR TERPADU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210280",
+		"nama": "S-1 REKAYASA TEKSTIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210069",
+		"nama": "S-1 REKAYASA TELEKOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210281",
+		"nama": "S-1 REKAYASA TENAGA LISTRIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210282",
+		"nama": "S-1 REKAYASA TRANSPORTASI LAUT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190014",
+		"nama": "S-1 SAINS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210283",
+		"nama": "S-1 SAINS AKTUARIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210388",
+		"nama": "S-1 SAINS AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210284",
+		"nama": "S-1 SAINS ATMOSFER DAN KEPLANETAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210165",
+		"nama": "S-1 SAINS ATMOSFIR DAN KEPLANETAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210166",
+		"nama": "S-1 SAINS BIOMEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100895",
+		"nama": "S-1 SAINS DAN TEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199321",
+		"nama": "S-1 SAINS DAN TEKNOLOGI FARMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210070",
+		"nama": "S-1 SAINS DATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210071",
+		"nama": "S-1 SAINS DATA SPASIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210285",
+		"nama": "S-1 SAINS HEWAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210072",
+		"nama": "S-1 SAINS INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102872",
+		"nama": "S-1 SAINS INFORMASI GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210286",
+		"nama": "S-1 SAINS KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210287",
+		"nama": "S-1 SAINS KELUARGA DAN KONSUMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210288",
+		"nama": "S-1 SAINS KEOLAHRAGAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210289",
+		"nama": "S-1 SAINS KEPOLISIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102388",
+		"nama": "S-1 SAINS KOMPUTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102544",
+		"nama": "S-1 SAINS KOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210389",
+		"nama": "S-1 SAINS KOMUNIKASI DAN PENGEMBANGAN MASYARAKAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210290",
+		"nama": "S-1 SAINS LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210390",
+		"nama": "S-1 SAINS MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210291",
+		"nama": "S-1 SAINS PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210292",
+		"nama": "S-1 SAINS PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210294",
+		"nama": "S-1 SAINS PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210295",
+		"nama": "S-1 SAINS POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210296",
+		"nama": "S-1 SAINS TANAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5151051",
+		"nama": "S-1 SAINS TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "4609140",
+		"nama": "S-1 SANITASI LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101083",
+		"nama": "S-1 SARJANA EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100828",
+		"nama": "S-1 SARJANA HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101271",
+		"nama": "S-1 SARJANA MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190069",
+		"nama": "S-1 SARJANA TEKNIK DAN MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100044",
+		"nama": "S-1 SASTRA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210116",
+		"nama": "S-1 SASTRA ACEH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120412",
+		"nama": "S-1 SASTRA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120414",
+		"nama": "S-1 SASTRA ARAB DAN KEBUDAYAAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100637",
+		"nama": "S-1 SASTRA ASING",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100982",
+		"nama": "S-1 SASTRA BAHASA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120232",
+		"nama": "S-1 SASTRA BALI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102500",
+		"nama": "S-1 SASTRA BATAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120531",
+		"nama": "S-1 SASTRA BELANDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210297",
+		"nama": "S-1 SASTRA BUGIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120322",
+		"nama": "S-1 SASTRA CINA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120200",
+		"nama": "S-1 SASTRA DAERAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100055",
+		"nama": "S-1 SASTRA DAN BAHASA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120100",
+		"nama": "S-1 SASTRA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102160",
+		"nama": "S-1 SASTRA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120212",
+		"nama": "S-1 SASTRA JAWA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120215",
+		"nama": "S-1 SASTRA JAWA KUNO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120312",
+		"nama": "S-1 SASTRA JEPANG",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120551",
+		"nama": "S-1 SASTRA JERMAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120332",
+		"nama": "S-1 SASTRA KOREA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102501",
+		"nama": "S-1 SASTRA MELAYU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120111",
+		"nama": "S-1 SASTRA MINANGKABAU",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120117",
+		"nama": "S-1 SASTRA NUSANTARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120521",
+		"nama": "S-1 SASTRA PERANCIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120541",
+		"nama": "S-1 SASTRA RUSIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100406",
+		"nama": "S-1 SASTRA SPANYOL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120222",
+		"nama": "S-1 SASTRA SUNDA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102868",
+		"nama": "S-1 SASTRA TIONGKOK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5120703",
+		"nama": "S-1 SEJARAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102502",
+		"nama": "S-1 SEJARAH DAN PERADABAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100105",
+		"nama": "S-1 SEJARAH KEBUDAYAAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192760",
+		"nama": "S-1 SEJARAH PERADABAN ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210298",
+		"nama": "S-1 SEJARAH SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5126100",
+		"nama": "S-1 SEKRETARIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119000",
+		"nama": "S-1 SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119052",
+		"nama": "S-1 SENI KARAWITAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119021",
+		"nama": "S-1 SENI KRIYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119012",
+		"nama": "S-1 SENI MURNI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119061",
+		"nama": "S-1 SENI MUSIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119073",
+		"nama": "S-1 SENI PEDALANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100235",
+		"nama": "S-1 SENI PERTUNJUKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119014",
+		"nama": "S-1 SENI RUPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119019",
+		"nama": "S-1 SENI RUPA MURNI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119041",
+		"nama": "S-1 SENI TARI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191138",
+		"nama": "S-1 SENI TEATER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5199317",
+		"nama": "S-1 SILVIKULTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210299",
+		"nama": "S-1 SINOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192767",
+		"nama": "S-1 SIPIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100112",
+		"nama": "S-1 SISTEM DAN TEKNOLOGI INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100144",
+		"nama": "S-1 SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210394",
+		"nama": "S-1 SISTEM INFORMASI GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191413",
+		"nama": "S-1 SISTEM INFORMASI KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150070",
+		"nama": "S-1 SISTEM INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210533",
+		"nama": "S-1 SISTEM INFROMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193636",
+		"nama": "S-1 SISTEM KEARSIPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5150072",
+		"nama": "S-1 SISTEM KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5130031",
+		"nama": "S-1 SOSIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193418",
+		"nama": "S-1 SOSIAL DAN POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190009",
+		"nama": "S-1 SOSIAL EKONOMI PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106594",
+		"nama": "S-1 SOSIAL EKONOMI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106480",
+		"nama": "S-1 SOSIAL EKONOMI PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100047",
+		"nama": "S-1 SOSIAL ILMU ADMINISTRASI NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100523",
+		"nama": "S-1 SOSIAL ILMU PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5140323",
+		"nama": "S-1 SOSIAL ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5145000",
+		"nama": "S-1 SOSIAL POLITIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190129",
+		"nama": "S-1 SOSIATRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5145081",
+		"nama": "S-1 SOSIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192559",
+		"nama": "S-1 SOSIOLOGI AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100550",
+		"nama": "S-1 SOSIOLOGI PEDESAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100317",
+		"nama": "S-1 SOSIOLOGI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5151000",
+		"nama": "S-1 STATISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5151020",
+		"nama": "S-1 STATISTIK MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5151001",
+		"nama": "S-1 STATISTIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102757",
+		"nama": "S-1 STATISTIKA DAN SAINS DATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5151050",
+		"nama": "S-1 STATISTIKA TERAPAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102615",
+		"nama": "S-1 STUDI EKONOMI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210300",
+		"nama": "S-1 STUDI HUMANITAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193552",
+		"nama": "S-1 STUDI ILMU EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210395",
+		"nama": "S-1 STUDI KEBIJAKAN PUBLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192610",
+		"nama": "S-1 STUDI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210078",
+		"nama": "S-1 STUDI PEMERINTAHAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210301",
+		"nama": "S-1 STUDI PERBANDINGAN AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210302",
+		"nama": "S-1 STUDI PERBANDINGAN LITERATUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210303",
+		"nama": "S-1 STUDI PERTAHANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940614",
+		"nama": "S-1 SUMBER DAYA AKUATIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210079",
+		"nama": "S-1 SUMBER DAYA PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210572",
+		"nama": "S-1 SUPPLY CHAIN MANAGEMEMENT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100967",
+		"nama": "S-1 SYARIAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119127",
+		"nama": "S-1 SYARIAH DAN HUKUM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202401",
+		"nama": "S-1 SYARIAH EKONOMI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119128",
+		"nama": "S-1 SYARIAH HUKUM ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102517",
+		"nama": "S-1 SYARIAH ISLAMIYAH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202354",
+		"nama": "S-1 SYARIAH PERADILAN AGAMA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100053",
+		"nama": "S-1 SYARIAH PERDATA DAN PIDANA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193368",
+		"nama": "S-1 SYARIAH WAL QONUN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193369",
+		"nama": "S-1 TADRIS BAHASA INDONESIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100064",
+		"nama": "S-1 TADRIS BAHASA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102508",
+		"nama": "S-1 TADRIS BIOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101068",
+		"nama": "S-1 TADRIS FISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193370",
+		"nama": "S-1 TADRIS IPA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102618",
+		"nama": "S-1 TADRIS IPS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193371",
+		"nama": "S-1 TADRIS KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192762",
+		"nama": "S-1 TADRIS MATEMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5200000",
+		"nama": "S-1 TAFSIR HADIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202402",
+		"nama": "S-1 TARBIYAH BAHASA INGGRIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103162",
+		"nama": "S-1 TARBIYAH PENDIDIKAN AGAMA ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193374",
+		"nama": "S-1 TASAWUF DAN PSIKOTERAPI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102756",
+		"nama": "S-1 TATA KELOLA SENI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109700",
+		"nama": "S-1 TEKNIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100070",
+		"nama": "S-1 TEKNIK AERONAUTIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101345",
+		"nama": "S-1 TEKNIK ARSITEKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "9940618",
+		"nama": "S-1 TEKNIK ATAU REKAYASA KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210398",
+		"nama": "S-1 TEKNIK BAHASA ARAB",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191367",
+		"nama": "S-1 TEKNIK BANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103117",
+		"nama": "S-1 TEKNIK BIOENERGI DAN KEMURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102511",
+		"nama": "S-1 TEKNIK BIOMEDIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102358",
+		"nama": "S-1 TEKNIK BIOMEDIS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210177",
+		"nama": "S-1 TEKNIK BIOPROSES",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210082",
+		"nama": "S-1 TEKNIK BIOSISTEM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102552",
+		"nama": "S-1 TEKNIK DAN PENGELOLAAN SUMBER DAYA AIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102368",
+		"nama": "S-1 TEKNIK DIRGANTARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210399",
+		"nama": "S-1 TEKNIK EKONOMI KONSTRUKSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191063",
+		"nama": "S-1 TEKNIK ELEKTRO",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191097",
+		"nama": "S-1 TEKNIK ELEKTRO ARUS KUAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109711",
+		"nama": "S-1 TEKNIK ELEKTRO DAN TELEKOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190093",
+		"nama": "S-1 TEKNIK ELEKTRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100624",
+		"nama": "S-1 TEKNIK ENERGI LISTRIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102362",
+		"nama": "S-1 TEKNIK ENERGI TERBARUKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190099",
+		"nama": "S-1 TEKNIK FARMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109716",
+		"nama": "S-1 TEKNIK FISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100927",
+		"nama": "S-1 TEKNIK GEODESI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192781",
+		"nama": "S-1 TEKNIK GEODESI DAN GEOMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210400",
+		"nama": "S-1 TEKNIK GEODESI DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190002",
+		"nama": "S-1 TEKNIK GEOFISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109795",
+		"nama": "S-1 TEKNIK GEOGRAFI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109781",
+		"nama": "S-1 TEKNIK GEOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109923",
+		"nama": "S-1 TEKNIK GEOMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191405",
+		"nama": "S-1 TEKNIK HASIL PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109791",
+		"nama": "S-1 TEKNIK INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192769",
+		"nama": "S-1 TEKNIK INDUSTRI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009031",
+		"nama": "S-1 TEKNIK INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101087",
+		"nama": "S-1 TEKNIK INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100970",
+		"nama": "S-1 TEKNIK INFORMATIKA KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210304",
+		"nama": "S-1 TEKNIK INFRASTRUKTUR DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210178",
+		"nama": "S-1 TEKNIK INFRASTRUKTUR LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210305",
+		"nama": "S-1 TEKNIK INSTRUMENTASI DAN AUTOMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102103",
+		"nama": "S-1 TEKNIK KEHUTANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109601",
+		"nama": "S-1 TEKNIK KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210084",
+		"nama": "S-1 TEKNIK KESELAMATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210558",
+		"nama": "S-1 TEKNIK KESELAMATAN DAN PROTEKSI KEBAKARAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210306",
+		"nama": "S-1 TEKNIK KESELAMATAN KEBAKARAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5107216",
+		"nama": "S-1 TEKNIK KIMIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101346",
+		"nama": "S-1 TEKNIK KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5009032",
+		"nama": "S-1 TEKNIK KOMPUTER DAN INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191287",
+		"nama": "S-1 TEKNIK KOMPUTER DAN JARINGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210307",
+		"nama": "S-1 TEKNIK KOSMETIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109785",
+		"nama": "S-1 TEKNIK LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109790",
+		"nama": "S-1 TEKNIK LISTRIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193154",
+		"nama": "S-1 TEKNIK LOGISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193155",
+		"nama": "S-1 TEKNIK MANUFAKTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109797",
+		"nama": "S-1 TEKNIK MATERIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100746",
+		"nama": "S-1 TEKNIK MATERIAL DAN METALURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193290",
+		"nama": "S-1 TEKNIK MEKATRONIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109730",
+		"nama": "S-1 TEKNIK MESIN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100551",
+		"nama": "S-1 TEKNIK MESIN DAN BIOSISTEM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192812",
+		"nama": "S-1 TEKNIK METALURGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109000",
+		"nama": "S-1 TEKNIK METALURGI DAN MATERIAL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210308",
+		"nama": "S-1 TEKNIK MINYAK DAN GAS",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101805",
+		"nama": "S-1 TEKNIK MULTIMEDIA DAN JARINGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109770",
+		"nama": "S-1 TEKNIK NUKLIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210402",
+		"nama": "S-1 TEKNIK NUKLIR (MINAT FISIKA MEDIS)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190184",
+		"nama": "S-1 TEKNIK OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102391",
+		"nama": "S-1 TEKNIK PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110218",
+		"nama": "S-1 TEKNIK PENERBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109168",
+		"nama": "S-1 TEKNIK PENGAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100268",
+		"nama": "S-1 TEKNIK PENGELOLAAN SUMBER DAYA AIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100825",
+		"nama": "S-1 TEKNIK PENYEHATAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100376",
+		"nama": "S-1 TEKNIK PERANGKAT LUNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109167",
+		"nama": "S-1 TEKNIK PERENCANAAN WILAYAH DAN KOTA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109760",
+		"nama": "S-1 TEKNIK PERKAPALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210181",
+		"nama": "S-1 TEKNIK PERKERETAAPIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109789",
+		"nama": "S-1 TEKNIK PERMINYAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109788",
+		"nama": "S-1 TEKNIK PERTAMBANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106187",
+		"nama": "S-1 TEKNIK PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193637",
+		"nama": "S-1 TEKNIK PERTANIAN DAN BIOSISTEM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190033",
+		"nama": "S-1 TEKNIK PLANOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210403",
+		"nama": "S-1 TEKNIK REKAYASA KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210404",
+		"nama": "S-1 TEKNIK REKAYASA LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210405",
+		"nama": "S-1 TEKNIK REKAYASA SIPIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210182",
+		"nama": "S-1 TEKNIK ROBOTIKA DAN KECERDASAN BUATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109100",
+		"nama": "S-1 TEKNIK SIPIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191402",
+		"nama": "S-1 TEKNIK SIPIL BIDANG TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191209",
+		"nama": "S-1 TEKNIK SIPIL DAN LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102012",
+		"nama": "S-1 TEKNIK SIPIL DAN PERENCANAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210406",
+		"nama": "S-1 TEKNIK SIPIL PERANCANGAN JALAN DAN JEMBATAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193527",
+		"nama": "S-1 TEKNIK SIPIL TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210407",
+		"nama": "S-1 TEKNIK SISTEM DAN INDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210183",
+		"nama": "S-1 TEKNIK SISTEM ENERGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192820",
+		"nama": "S-1 TEKNIK SISTEM PERKAPALAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193616",
+		"nama": "S-1 TEKNIK SUMBER DAYA AIR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210309",
+		"nama": "S-1 TEKNIK SUMBER DAYA PENGAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109715",
+		"nama": "S-1 TEKNIK TELEKOMUNIKASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100031",
+		"nama": "S-1 TEKNIK TENAGA LISTRIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193389",
+		"nama": "S-1 TEKNIK TRANSPORTASI LAUT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100944",
+		"nama": "S-1 TEKNOLOGI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210184",
+		"nama": "S-1 TEKNOLOGI AGROINDUSTRI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193163",
+		"nama": "S-1 TEKNOLOGI AKUAKULTUR",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103009",
+		"nama": "S-1 TEKNOLOGI BENIH",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106537",
+		"nama": "S-1 TEKNOLOGI DAN MANAJEMEN PERIKANAN BUDIDAYA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106538",
+		"nama": "S-1 TEKNOLOGI DAN MANAJEMEN PERIKANAN TANGKAP",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106330",
+		"nama": "S-1 TEKNOLOGI HASIL HUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192785",
+		"nama": "S-1 TEKNOLOGI HASIL PERAIRAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106536",
+		"nama": "S-1 TEKNOLOGI HASIL PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103014",
+		"nama": "S-1 TEKNOLOGI HASIL PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106120",
+		"nama": "S-1 TEKNOLOGI HASIL PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101841",
+		"nama": "S-1 TEKNOLOGI HASIL PETERNAKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106433",
+		"nama": "S-1 TEKNOLOGI HASIL TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210310",
+		"nama": "S-1 TEKNOLOGI HAYATI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5193164",
+		"nama": "S-1 TEKNOLOGI INDUSTRI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106117",
+		"nama": "S-1 TEKNOLOGI INDUSTRI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190068",
+		"nama": "S-1 TEKNOLOGI INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100036",
+		"nama": "S-1 TEKNOLOGI KELAUTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5103018",
+		"nama": "S-1 TEKNOLOGI LABORATORIUM MEDIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210410",
+		"nama": "S-1 TEKNOLOGI MEKANISASI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109202",
+		"nama": "S-1 TEKNOLOGI MINERAL GEOFISIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100581",
+		"nama": "S-1 TEKNOLOGI PAKAN TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190089",
+		"nama": "S-1 TEKNOLOGI PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104814",
+		"nama": "S-1 TEKNOLOGI PANGAN DAN GIZI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5104815",
+		"nama": "S-1 TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101877",
+		"nama": "S-1 TEKNOLOGI PASCA PANEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100001",
+		"nama": "S-1 TEKNOLOGI PENANGKAPAN IKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5110946",
+		"nama": "S-1 TEKNOLOGI PENDIDIKAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191375",
+		"nama": "S-1 TEKNOLOGI PENGOLAHAN HASIL PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210542",
+		"nama": "S-1 TEKNOLOGI PENGOLAHAN SUMBERDAYA PERIKANAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106240",
+		"nama": "S-1 TEKNOLOGI PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5106111",
+		"nama": "S-1 TEKNOLOGI PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100015",
+		"nama": "S-1 TEKNOLOGI PERTANIAN PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102711",
+		"nama": "S-1 TEKNOLOGI PRODUKSI DAN PENGEMBANGAN MASYARAKAT PERTANIAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210411",
+		"nama": "S-1 TEKNOLOGI PRODUKSI TANAMAN HORTIKULTURA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102542",
+		"nama": "S-1 TEKNOLOGI PRODUKSI TANAMAN PANGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210412",
+		"nama": "S-1 TEKNOLOGI PRODUKSI TANAMAN PERKEBUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5192784",
+		"nama": "S-1 TEKNOLOGI PRODUKSI TERNAK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210091",
+		"nama": "S-1 TEKNOLOGI REKAYASA KOMPUTER",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210092",
+		"nama": "S-1 TEKNOLOGI REKAYASA KOMPUTER JARINGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210573",
+		"nama": "S-1 TEKNOLOGI REKAYASA MULTIMEDIA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210095",
+		"nama": "S-1 TEKNOLOGI REKAYASA OTOMOTIF",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210097",
+		"nama": "S-1 TEKNOLOGI SAINS DATA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5191351",
+		"nama": "S-1 TEKNOLOGI TEKSTIL",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5102661",
+		"nama": "S-1 TEOLOGI (KRISTEN)",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5119132",
+		"nama": "S-1 TEOLOGI ISLAM",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210099",
+		"nama": "S-1 TEOLOGI KATOLIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190227",
+		"nama": "S-1 TEOLOGI KEPENDETAAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5101534",
+		"nama": "S-1 TEOLOGI KRISTEN PROTESTAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5190001",
+		"nama": "S-1 TRANSPORTASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5109502",
+		"nama": "S-1 TRANSPORTASI DARAT",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5210311",
+		"nama": "S-1 USAHA KOPERASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "6202229",
+		"nama": "S-1/D-IV ADMINISTRASI NEGARA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209106",
+		"nama": "S-1/D-IV AKUNTANSI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100285",
+		"nama": "S-1/D-IV EKONOMI PEMBANGUNAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100283",
+		"nama": "S-1/D-IV ILMU EKONOMI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209110",
+		"nama": "S-1/D-IV MANAJEMEN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209112",
+		"nama": "S-1/D-IV SISTEM INFORMASI",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "7609237",
+		"nama": "S-1/D-IV STATISTIK",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209115",
+		"nama": "S-1/D-IV TEKNIK INFORMATIKA",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5100302",
+		"nama": "S-1/D-IV TEKNIK LINGKUNGAN",
+		"tingkat_pendidikan_id": "40"
+	},
+	{
+		"cepat_kode": "5209119",
+		"nama": "S-1/D-IV TEKNIK SIPIL",
+		"tingkat_pendidikan_id": "40"
+	}
+]
